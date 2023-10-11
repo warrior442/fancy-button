@@ -1,0 +1,22 @@
+{
+  "name": "@nihals442/fancy-button",
+  "version": "1.0.0",
+  "description": "This is my first custom pakage",
+  "main": "src/index.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  
+  "author": "",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "react": "^18.2.0"
+  },  
+  "dependencies": {
+    "prop-types": "^15.8.1",
+    "styled-components": "^6.0.8"
+  }
+}
